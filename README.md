@@ -1,0 +1,2 @@
+# Omikuji
+My first App
